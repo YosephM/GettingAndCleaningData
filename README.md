@@ -6,11 +6,11 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 via https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 
 ## How to Run the run_analysis.R Script
-*download the script into your working directory
-*download the data in the above link in a subdirectory  'data' under your working directory
-*open the script in Rstudio
-*make sure the current working directory is correctly set at the top of the script
-*run the script
+* download the script into your working directory
+* download the data in the above link in a subdirectory  'data' under your working directory
+* open the script in Rstudio
+* make sure the current working directory is correctly set at the top of the script
+* run the script
 
 ## Outputs
 The script results in two files written out to the working directory
@@ -25,7 +25,7 @@ The script results in two files written out to the working directory
   5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
   
 ##The detail steps followed while writting to met the above set goal are given below:
-.set your working directory. I used #setwd("D:/Trainings/R/Project")
+###set your working directory. I used #setwd("D:/Trainings/R/Project")
 ###reading data from files
   1. read both training and test data
   2. read both training and test activities data

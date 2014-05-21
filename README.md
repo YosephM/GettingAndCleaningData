@@ -25,7 +25,7 @@ The script results in two files written out to the working directory
   5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
   
 ##The detail steps followed while writting to met the above set goal are given below:
-###set your working directory. I used #setwd("D:/Trainings/R/Project")
+###set your working directory. I used setwd("D:/Trainings/R/Project")
 ###reading data from files
   1. read both training and test data
   2. read both training and test activities data

@@ -16,10 +16,12 @@ Coursera also provided the zipped row data on the course website https://d396qus
 
 ## Code Book
 The Following are the final list of variables.
+
 ###  ID Variables
 * subject
 * activity 
-### Measurment variables
+
+###  Measurment variables
 * tBodyAccMeanX
 * tBodyAccMeanY 
 * tBodyAccMeanZ 

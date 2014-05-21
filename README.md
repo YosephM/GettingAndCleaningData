@@ -14,8 +14,8 @@ via https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20D
 
 ## Outputs
 The script results in two files written out to the working directory
-  1.tidy_data.txt,  which is a cleaned data before any aggrigation is done
-  2.aggrigated_by_mean_tidy_data.txt, the final cleaned and aggrigated data
+  1.tidy_data.txt,  which is a cleaned data before any aggrigation is done.
+  2.aggrigated_by_mean_tidy_data.txt, the final cleaned and aggrigated data.
 
 ##The Goal for the run_analysis.R  script is :
   1. Merges the training and the test sets to create one data set.

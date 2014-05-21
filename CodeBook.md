@@ -15,8 +15,8 @@ Coursera also provided the zipped row data on the course website https://d396qus
 6. This data set is then aggrigated by taking the mean of the measurment variables for each subject and activity type to produce the final dataset
 
 ## Code Book
-The Following are the final list of variables
-### ID Variables
+The Following are the final list of variables.
+###  ID Variables
 * subject
 * activity 
 ### Measurment variables

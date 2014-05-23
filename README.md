@@ -1,6 +1,6 @@
 Response to the Coursera's course "Getting and Cleaning Data" Project
 
-run_analysis.R is written to clean up and prepare for further anlysis the "Human Activity Recognition Using Smartphones" Data Set 
+run_analysis.R is written to clean up and prepare for further anlysis the Human Activity Recognition Using Smartphones Data Set 
 originally collected from the accelerometers from the Samsung Galaxy S smartphone on 30 volunteers within an age bracket of 19-48 years
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones and provided for students 
 via https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
